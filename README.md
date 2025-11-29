@@ -56,4 +56,4 @@ APIcourses/
 
 ---
 
-*Developed by 🐳 perilka 🐳 to practice containerized APIs. Explore my resume and another repositories for similar production work!!!*
+*Developed by 🐳 perilka 🐳 to demonstrate production-ready Django REST deployment with Docker & Nginx. Explore my resume and another repositories for similar production work!!!*
